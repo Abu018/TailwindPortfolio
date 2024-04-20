@@ -1,0 +1,5 @@
+import React from "react";
+
+export const About = () => {
+  return <div className="mt-20">this is about About</div>;
+};
